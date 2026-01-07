@@ -1,4 +1,4 @@
-# Relational Database Design and Analytics for Supply Chain Management
+# Supply Chain Data Modeling and SQL Analytics
 
 ## Overview
 This project focuses on designing and implementing a relational database to model real-world supply chain and logistics operations. The goal is to transform a large, unstructured dataset into a well-organized database that supports meaningful analysis of orders, products, customers, and logistics performance.
